@@ -1,5 +1,5 @@
 # Odin Recipes
-Learning web development foundation from The Odin Project
+Learning web development foundation from [TheOdinProject](https://www.theodinproject.com), this is first project [Recipes](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## Learning Outcomes Summary
 - Got a better understanding of the basics of web development
